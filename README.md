@@ -1,6 +1,6 @@
 ﻿![The RWAX](rwax_banner.webp)
 
-# The RWAX brand-kit
+## RWAX brand kit
 
 This repo contains fonts and logos for the RWAX brand.
 
